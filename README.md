@@ -6,14 +6,8 @@
 
 ### 🛠️ Skills
 
-**Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Languages" />
-</p>
-
-**Web Technologies & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask" alt="Web Tech" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask" />
 </p>
 
 **AI / ML / Data Analysis**
