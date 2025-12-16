@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="mailto:anandshenoy29@gmail.com" target="blank">
-    <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" width="40" height="40">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anandshenoy29" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="40" height="40">
