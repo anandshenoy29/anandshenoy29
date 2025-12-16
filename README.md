@@ -12,17 +12,19 @@
   <img src="https://skillicons.dev/icons?i=js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=html" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" /><br>
   <img src="https://skillicons.dev/icons?i=pandas" />&nbsp;
   <img src="https://skillicons.dev/icons?i=numpy" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=scipy" /><br>
+  <img src="https://skillicons.dev/icons?i=scipy" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sklearn" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" />&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" />&nbsp;
   <img src="https://skillicons.dev/icons?i=keras" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=matplotlib" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=seaborn" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=plotly" /><br>
   <img src="https://skillicons.dev/icons?i=powerbi" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tableau" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=plotly" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;
