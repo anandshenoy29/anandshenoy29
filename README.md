@@ -37,7 +37,7 @@
 ### 📫 Let's Connect!
 
 <a href="https://linkedin.com/in/anandshenoy29" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50">
+<img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://anandshenoy29.github.io/anand-portfolio/" target="_blank">
 <img src="https://www.svgrepo.com/show/353551/chrome.svg" alt="Portfolio" width="50" height="50">
