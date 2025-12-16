@@ -21,7 +21,7 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/></a>&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/></a>&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/></a><br>
 
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48"/></a>&nbsp;
