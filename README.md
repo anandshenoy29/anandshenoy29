@@ -25,6 +25,7 @@
 - **LinkedIn:** [anandshenoy29](https://linkedin.com/in/anandshenoy29)
 - **Portfolio:** [anand-portfolio](https://anandshenoy29.github.io/anand-portfolio/)
 - **Email id:** [anandshenoy29@gmail.com](mailto:anandshenoy29@gmail.com)
-- <a href="https://anandshenoy29.github.io/anand-portfolio/" target="_blank">
+
+<a href="https://anandshenoy29.github.io/anand-portfolio/" target="_blank">
 <img src="https://skillicons.dev/icons?i=website" alt="Portfolio" width="50" height="50">
 </a>
