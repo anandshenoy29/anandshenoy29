@@ -16,14 +16,6 @@ I’m a passionate MSc IT student with a strong foundation in Artificial Intelli
 
 ---
 
-### 🔭 What I’m Working On
-- 🤖 Developing predictive models using Advanced Machine Learning algorithms.
-- 📊 Creating interactive dashboards to visualize complex datasets.
-- 🎓 Deepening my knowledge in Deep Learning and Natural Language Processing (NLP).
-- 🔍 Seeking **Internships** and **Collaborative Projects** in AI/ML and Data Analytics.
-
----
-
 ### 📊 GitHub Stats
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandshenoy29&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshenoy29&layout=compact&theme=radical)
