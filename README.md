@@ -2,8 +2,6 @@
 
 <h3>I’m a passionate MSc IT student with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics and Visualization. I’m proficient in working with Python libraries, SQL/NoSQL, and several Visualization tools to process data, analyze statistics, and build predictive models.</h3>
 
----
-
 <h2>🛠️ Skills</h2>
 
 **Programming Languages:** <br><br>
@@ -37,8 +35,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/></a>
-
----
 
 <h2>🤝 Connect with me</h2>
 
