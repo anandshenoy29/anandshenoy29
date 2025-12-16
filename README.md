@@ -6,13 +6,35 @@
 
 ### 🛠️ Skills
 
-**Programming Languages:** Python, Java, JavaScript <br>
-**Web Technologies/Frameworks:** HTML, CSS, Flask<br>
-**AI/ML/DL:** Scikit-learn, TensorFlow, PyTorch, Keras<br>
-**Data Analysis:** NumPy, Pandas, SciPy<br>
-**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly<br>
-**Databases:** MySQL, MongoDB, PostgreSQL<br>
-**Tools & Platforms:** Jupyter Notebook, VS Code, PyCharm, IntelliJ IDEA
+**Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Languages" />
+</p>
+
+**Web Technologies & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask" alt="Web Tech" />
+</p>
+
+**AI / ML / Data Analysis**
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="AI/ML" />
+</p>
+
+**Data Visualization**
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,plotly" alt="Visualization" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode,pycharm,idea" alt="Tools" />
+</p>
 
 ---
 
@@ -24,6 +46,6 @@
 ### 📫 Let's Connect!
 
 <p>
-<a href="mailto:anandshenoy29@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;
-<a href="https://www.linkedin.com/in/anandshenoy29/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
+<a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;
+<a href="https://www.linkedin.com/in/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
 </p>
