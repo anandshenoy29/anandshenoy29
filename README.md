@@ -34,6 +34,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40">
   </a>
   <a href="https://anandshenoy29.github.io/anand-portfolio/" target="blank">
-    <img src="https://skillicons.dev/icons?i=website" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="40" height="40">
   </a>
 </p>
