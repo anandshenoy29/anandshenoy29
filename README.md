@@ -33,8 +33,7 @@
 
 **Tools & Platforms**
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" height="48" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" alt="Tools" />
 </p>
 
