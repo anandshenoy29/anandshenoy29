@@ -7,28 +7,13 @@
 ### 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,sklearn,tensorflow,pytorch,keras" />
 </p>
 
-**AI / ML / Data Analysis**
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,keras" alt="AI/ML" />
-</p>
-
-**Data Visualization**
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,plotly" alt="Visualization" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,plotly,mysql,mongodb,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
 </p>
 
 ---
