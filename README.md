@@ -25,7 +25,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/></a><br><br>
 **Data Visualization:** <br><br>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://cdn.imgbin.com/19/21/6/imgbin-microsoft-excel-computer-icons-exel-mmUhy3ZdwweVqrYa5VGW9aPHi.jpg" width="48" height="48"/></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" width="48" height="48"/></a><br><br>
 **Databases:** <br><br>
