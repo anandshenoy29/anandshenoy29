@@ -31,5 +31,5 @@
 </a>
 
 <a href="https://linkedin.com/in/anandshenoy29" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="50" height="50">
 </a>
