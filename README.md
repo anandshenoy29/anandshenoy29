@@ -14,9 +14,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a><br>
 
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>&nbsp;
-  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>&nbsp;
-  <a href="https://scipy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scipy" /></a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/></a>&nbsp;
+  <a href="https://scipy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>&nbsp;
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
