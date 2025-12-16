@@ -25,7 +25,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/></a><br><br>
 **Data Visualization:** <br><br>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://p7.hiclipart.com/preview/587/633/124/microsoft-excel-computer-icons-visual-basic-for-applications-microsoft-office-365-clip-art-excel-thumbnail.jpg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" width="48" height="48"/></a><br><br>
 **Databases:** <br><br>
