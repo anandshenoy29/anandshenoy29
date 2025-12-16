@@ -28,12 +28,12 @@
 
 <p>
   <a href="mailto:anandshenoy29@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcM5Fkq4qUjujDJ1_P9xYjOwZQs4XKVMl7sQ&s" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/anandshenoy29/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="40" height="40">
   </a>
   <a href="https://anandshenoy29.github.io/anand-portfolio/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" height="40">
+    <img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" width="40" height="40">
   </a>
 </p>
