@@ -25,7 +25,7 @@
   <a href="https://plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/></a><br>
 
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau/E97628" width="48" height="48"/></a>&nbsp;
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://icon2.cleanpng.com/20181112/xuy/kisspng-tableau-software-computer-software-business-intell-best-tableau-courses-tutorials-amp-books-2-18-5be9d6e387ca79.8936234515420515555562.jpg" width="48" height="48"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/></a>&nbsp;
