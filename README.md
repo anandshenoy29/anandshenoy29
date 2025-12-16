@@ -22,11 +22,8 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [anandshenoy29](https://linkedin.com/in/anandshenoy29)
-- **Portfolio:** [anand-portfolio](https://anandshenoy29.github.io/anand-portfolio/)
-- **Email id:** [anandshenoy29@gmail.com](mailto:anandshenoy29@gmail.com)
 
 <p>
-<a href="mailto:anandshenoy29@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:anandshenoy29@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anandshenoy29/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
 </p>
