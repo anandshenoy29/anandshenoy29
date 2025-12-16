@@ -29,7 +29,7 @@
 <p align="left">
   <a href="mailto:anandshenoy29@gmail.com" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" height="50">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anandshenoy29" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="50" height="50">
   </a>
