@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="mailto:anandshenoy29@gmail.com" target="blank">
-    <img src="https://img.freepik.com/premium-vector/google-icons-gmail-icons-editable-vector-illustration_981536-461.jpg?semt=ais_hybrid&w=740&q=80" width="40" height="40">
+    <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anandshenoy29" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="40" height="40">
