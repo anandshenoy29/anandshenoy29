@@ -6,6 +6,7 @@ I’m a passionate MSc IT student with a strong foundation in Artificial Intelli
 
 ### 🛠️ Skills
 
+| :--- | :--- |
 | **Programming Languages** | Python, Java, JavaScript |
 | **Web Technologies/Frameworks** | HTML, CSS, Flask |
 | **AI / Machine Learning** | Scikit-learn, TensorFlow, PyTorch, Keras |
