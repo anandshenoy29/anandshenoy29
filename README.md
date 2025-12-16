@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect!<br>
 
 <p>
 <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a>&nbsp;&nbsp;
