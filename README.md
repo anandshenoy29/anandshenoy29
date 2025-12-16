@@ -27,5 +27,5 @@
 - **Email id:** [anandshenoy29@gmail.com](mailto:anandshenoy29@gmail.com)
 
 <a href="https://linkedin.com/in/anandshenoy29" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="50" height="50">
 </a>
