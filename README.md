@@ -31,7 +31,11 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/anandshenoy29" target="blank">
+  <a href="https://www.linkedin.com/in/anandshenoy29/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://anandshenoy29.github.io/anand-portfolio/" target="blank">
+    <img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" width="40" height="40">
   </a>
 </p>
