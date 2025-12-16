@@ -16,7 +16,7 @@
 
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/></a>&nbsp;
-  <a href="https://scipy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48" height="48"/></a>&nbsp;
+  <a href="https://scipy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scipy" /></a>&nbsp;
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>&nbsp;
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
