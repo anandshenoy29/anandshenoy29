@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Skills
+<h2>🛠️ Skills</h2>
 
 **Programming Languages:** <br><br>
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 
 ---
 
-### 🤝 Connect with me!
+<h2>🤝 Connect with me!</h2>
 
 <p>
 <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a>&nbsp;&nbsp;
