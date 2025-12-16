@@ -42,6 +42,6 @@
 
 <h2>🤝 Connect with me</h2>
 
-<a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"></a>
+<a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"></a>
