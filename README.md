@@ -16,7 +16,7 @@
 
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/></a>&nbsp;
-  <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-1f425f?style=for-the-badge&logo=scipy&logoColor=white" height="48" /></a>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="48" height="48" style="background-color: #1a1a1a; padding: 5px; border-radius: 10px;" />
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>&nbsp;
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
