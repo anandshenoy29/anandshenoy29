@@ -7,43 +7,36 @@
 ### 🛠️ Skills
 
 <p align="left">
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a><br>
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=scipy" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=keras" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=plotly" /></a><br>
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=powerbi" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>&nbsp;
-  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a><br>
+  
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>&nbsp;
+  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>&nbsp;
+  <a href="https://scipy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scipy" /></a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>&nbsp;
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
+  <a href="https://keras.io/" target="_blank"><img src="https://skillicons.dev/icons?i=keras" /></a>&nbsp;
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" /></a>&nbsp;
+  <a href="https://plotly.com/" target="_blank"><img src="https://skillicons.dev/icons?i=plotly" /></a><br>
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=powerbi" /></a>&nbsp;
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshenoy29&layout=compact&theme=radical)
-
----
-
-### 📫 Let's Connect!
-
-<p>
-<a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;
-<a href="https://www.linkedin.com/in/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
-</p>
