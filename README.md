@@ -33,5 +33,5 @@
 
 <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@LearnWithAnandYouTube" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/480/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" width="68" height="68"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@LearnWithAnandYouTube" target="_blank"><img src="https://icon2.cleanpng.com/20180808/err/df51845f174bf64f77d7e59adb82c039.webp" width="48" height="48"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"></a>
