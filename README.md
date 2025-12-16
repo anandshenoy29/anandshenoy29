@@ -23,20 +23,6 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505](https://linkedin.com/in/anandshenoy29)
-- **Portfolio:** [Link to your portfolio or blog]
-- **Email:** [your.email@example.com]
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anandshenoy29" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-  </a>
-  <a href="mailto:anandshenoy29@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="40" width="50" />
-  </a>
-  <a href="https://yourportfolio.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" height="40" width="50" />
-  </a>
-</p>
-
-*"Data is the new oil, but AI is the engine that runs on it."*
+- **LinkedIn:** [anandshenoy29](https://linkedin.com/in/anandshenoy29)
+- **Portfolio:** [anand-portfolio](https://anandshenoy29.github.io/anand-portfolio/)
+- **Email id:** [anandshenoy29@gmail.com](mailto:anandshenoy29@gmail.com)
