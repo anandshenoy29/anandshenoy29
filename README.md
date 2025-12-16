@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 **Programming Languages:** <br><br>
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
