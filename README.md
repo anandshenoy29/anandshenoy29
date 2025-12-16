@@ -7,31 +7,31 @@
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" /><br>
-  <img src="https://skillicons.dev/icons?i=pandas" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=scipy" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=keras" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=seaborn" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=plotly" /><br>
-  <img src="https://skillicons.dev/icons?i=powerbi" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tableau" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pycharm" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea" />
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" /></a><br>
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=scipy" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=keras" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=plotly" /></a><br>
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=powerbi" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>&nbsp;
+  <a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
 </p>
 
 ---
