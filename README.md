@@ -1,6 +1,6 @@
-# Hi there, I'm Anand Shenoy! 👋
+# Hello, I'm Anand Shenoy! 👋
 
-I am a passionate **MSc IT student** and aspiring **Data Scientist/AI Engineer**. I specialize in turning complex data into actionable insights and building intelligent systems that solve real-world problems.
+I’m a passionate MSc IT student with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics and Visualization. I’m proficient in working with Python libraries, SQL/NoSQL, and several Visualization tools to process data, analyze statistics, and build predictive models.
 
 ---
 
