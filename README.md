@@ -1,7 +1,5 @@
 # Hello, I'm Anand Shenoy! 👋
 
----
-
 <h3>I’m a passionate MSc IT student with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics and Visualization. I’m proficient in working with Python libraries, SQL/NoSQL, and several Visualization tools to process data, analyze statistics, and build predictive models.</h3>
 
 ---
