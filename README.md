@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 **Programming Languages:** Python, Java, JavaScript <br>
 **Web Technologies/Frameworks:** HTML, CSS, Flask<br>
@@ -16,12 +16,12 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshenoy29&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 <p>
 <a href="mailto:anandshenoy29@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;
