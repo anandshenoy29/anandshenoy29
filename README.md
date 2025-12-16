@@ -23,7 +23,9 @@
 
 **Data Visualization**
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,plotly" alt="Visualization" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=plotly,matplot" height="40" alt="Viz" />
 </p>
 
 **Databases**
