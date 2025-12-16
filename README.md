@@ -24,7 +24,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/></a><br>
 
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" height="48"/></a>&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;
   <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau/E97628" width="48" height="48"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/></a>&nbsp;
