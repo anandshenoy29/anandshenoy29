@@ -6,13 +6,13 @@ I’m a passionate MSc IT student with a strong foundation in Artificial Intelli
 
 ### 🛠️ Skills
 
-## **Programming Languages:** Python, Java, JavaScript <br>
-## **Web Technologies/Frameworks:** HTML, CSS, Flask<br>
-## **AI / ML / DL:** Scikit-learn, TensorFlow, PyTorch, Keras<br>
-## **Data Analysis:** NumPy, Pandas, SciPy<br>
-## **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly<br>
-## **Databases:** MySQL, MongoDB, PostgreSQL<br>
-## **Tools & Platforms:** Jupyter Notebook, VS Code, PyCharm, IntelliJ IDEA
+**Programming Languages:** Python, Java, JavaScript <br>
+**Web Technologies/Frameworks:** HTML, CSS, Flask<br>
+**AI / ML / DL:** Scikit-learn, TensorFlow, PyTorch, Keras<br>
+**Data Analysis:** NumPy, Pandas, SciPy<br>
+**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly<br>
+**Databases:** MySQL, MongoDB, PostgreSQL<br>
+**Tools & Platforms:** Jupyter Notebook, VS Code, PyCharm, IntelliJ IDEA
 
 ---
 
