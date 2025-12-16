@@ -33,7 +33,8 @@
 
 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=jupyter,vscode,pycharm,idea" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" alt="Tools" />
 </p>
 
 ---
