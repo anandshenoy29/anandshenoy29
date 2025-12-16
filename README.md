@@ -2,7 +2,7 @@
 
 <h3>I’m a passionate MSc IT student with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics and Visualization. I’m proficient in working with Python libraries, SQL/NoSQL, and several Visualization tools to process data, analyze statistics, and build predictive models.</h3>
 
-<h2>🛠️ Skills</h2>
+<h2>Skills 🛠️</h2>
 
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
