@@ -24,6 +24,6 @@
 ### 📫 Let's Connect!
 
 <p>
-<a href="mailto:anandshenoy29@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;&nbsp;
+<a href="mailto:anandshenoy29@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"></a> &nbsp;
 <a href="https://www.linkedin.com/in/anandshenoy29/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"></a>
 </p>
