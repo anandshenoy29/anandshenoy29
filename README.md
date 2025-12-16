@@ -26,7 +26,7 @@
 - **Portfolio:** [anand-portfolio](https://anandshenoy29.github.io/anand-portfolio/)
 - **Email id:** [anandshenoy29@gmail.com](mailto:anandshenoy29@gmail.com)
 
-<p align="left">
+<p>
   <a href="mailto:anandshenoy29@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
