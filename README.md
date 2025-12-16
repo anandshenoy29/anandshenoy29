@@ -4,15 +4,15 @@ I’m a passionate MSc IT student with a strong foundation in Artificial Intelli
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Skills
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, R, SQL (PostgreSQL, MySQL), NoSQL (MongoDB) |
+| **Programming Languages** | Python, Java, JavaScript |
+| **Web Technologies/Frameworks** | HTML, CSS, Flask |
 | **AI / Machine Learning** | Scikit-learn, TensorFlow, PyTorch, Keras |
-| **Data Analysis** | Pandas, NumPy, SciPy |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn, Plotly |
-| **Tools & Dev Ops** | Git, Docker, Jupyter Notebooks, VS Code |
+| **Data Analysis** | NumPy, Pandas, SciPy |
+| **Data Visualization** | Power BI, Tableau, Matplotlib, Seaborn, Plotly |
+| **Databases** | SQL (MySQL, PostgreSQL), NoSQL (MongoDB) |
+| **Tools & Platforms** | Jupyter Notebook, VS Code, PyCharm, IntelliJ IDEA |
 
 ---
 
