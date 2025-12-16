@@ -21,8 +21,8 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40"/></a> 
 <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" alt="numpy" width="40" height="40"/></a>
 
-**Data Visualization & Databases** <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" height="40"/></a> 
-<a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="40"/></a> 
+**Data Visualization & Databases** <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:none"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" alt="PowerBI" width="40" height="40"/></a> 
+<a href="https://www.tableau.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" alt="Tableau" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://anandshenoy29.github.io/anand-portfolio/" target="_blank">
-<img src="https://www.svgrepo.com/show/353551/chrome.svg" alt="Portfolio" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=gmail" style="display:none"/><img src="https://www.svgrepo.com/show/353551/chrome.svg" alt="Portfolio" width="50" height="50">
 </a>
 <a href="mailto:anandshenoy29@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50">
