@@ -6,14 +6,30 @@
 
 ### 🛠️ Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,pandas,numpy,scipy" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,keras,powerbi,tableau,plotly,mysql,mongodb,postgres" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=scipy" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=keras" />
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://skillicons.dev/icons?i=tableau" />
+  <img src="https://skillicons.dev/icons?i=plotly" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  <img src="https://skillicons.dev/icons?i=idea" />
 </p>
 
 ---
