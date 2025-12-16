@@ -25,8 +25,8 @@ I’m a passionate MSc IT student with a strong foundation in Artificial Intelli
 ---
 
 ### 📊 GitHub Stats
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandshenoy29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshenoy29&layout=compact&theme=radical)
 
 ---
 
