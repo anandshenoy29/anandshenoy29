@@ -31,6 +31,6 @@
     <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anandshenoy29" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="40" height="40">
+    <img src="https://i0.wp.com/openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png?fit=2400%2C2400&ssl=1" width="40" height="40">
   </a>
 </p>
