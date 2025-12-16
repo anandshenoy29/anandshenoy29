@@ -12,7 +12,7 @@
 
 **AI / ML / Data Analysis**
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="AI/ML" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,keras" alt="AI/ML" />
 </p>
 
 **Data Visualization**
