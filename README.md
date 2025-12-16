@@ -23,7 +23,8 @@
 <a href="https://plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" width="48" height="48"/></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" width="48" height="48"/></a><br><br>
+
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/></a>
