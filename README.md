@@ -7,11 +7,11 @@
 ### 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,sklearn,tensorflow,pytorch,keras" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,pandas,numpy,scipy" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,plotly,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,keras,powerbi,tableau,plotly,mysql,mongodb,postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
 </p>
