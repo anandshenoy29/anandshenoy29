@@ -28,9 +28,9 @@
 
 <p align="left">
   <a href="mailto:anandshenoy29@gmail.com" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/anandshenoy29" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="30" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="40" height="40">
   </a>
 </p>
