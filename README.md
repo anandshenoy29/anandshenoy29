@@ -23,7 +23,7 @@ I’m a passionate MSc IT student with a strong foundation in Artificial Intelli
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/anandshenoy](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+- **LinkedIn:** [https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505](https://linkedin.com/in/anandshenoy29)
 - **Portfolio:** [Link to your portfolio or blog]
 - **Email:** [your.email@example.com]
 
