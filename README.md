@@ -12,7 +12,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48"/></a><br><br>
 
 <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://scipy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scipy" width="48" height="48"/></a>&nbsp;&nbsp;
+<a href="https://scipy.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
