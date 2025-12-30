@@ -12,9 +12,9 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask" width="48" height="48"/></a><br><br>
 
 <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://scipy.org/" target="_blank"><img src="https://cdn.simpleicons.org/scipy" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
+<a href="https://tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48"/></a><br><br>
 
