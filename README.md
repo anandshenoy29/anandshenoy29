@@ -24,9 +24,3 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/></a>
-
-<h2>🤝 Connect with me</h2><br>
-
-<a href="mailto:anandshenoy29@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/anandshenoy29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"></a>
