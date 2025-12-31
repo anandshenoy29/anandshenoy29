@@ -23,5 +23,5 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" title="MS Power BI"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/" target="_blank" title="Tableau"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/></a>
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/></a>
