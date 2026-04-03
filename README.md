@@ -17,9 +17,7 @@ I'm currently looking for internships and collaborative projects where I can kee
 <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48"/></a>&nbsp;&nbsp;
-<a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch" width="48" height="48"/></a><br><br>
+<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/></a><br><br>
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="MS Excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://powerbi.microsoft.com/" target="_blank" title="MS Power BI"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/></a>&nbsp;&nbsp;
