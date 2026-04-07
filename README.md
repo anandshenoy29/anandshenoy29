@@ -1,15 +1,27 @@
-<h1>Hello, I'm Anand Shenoy! 👋</h1>
+# Hello, I'm Anand Shenoy! 👋
 
-<h3>I’m a passionate MSc IT student with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics and Visualization. I’m proficient in working with Python libraries, SQL, and Visualization tools to process data, analyze statistics, and build predictive models.<br><br>
-I'm currently looking for internships and collaborative projects where I can keep learning, apply my skills to real-world challenges and grow professionally.</h3>
+I’m a passionate **MSc IT student** with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics, and Visualization. I’m proficient in working with Python libraries, SQL, and Visualization tools to process data, analyze statistics, and build predictive models.
 
-<h1>🛠️ Skills</h1>
+I'm currently looking for **internships and collaborative projects** where I can keep learning, apply my skills to real-world challenges, and grow professionally.
 
-<ul>
-  <li><b>Programming Languages:</b> Python, Java, JavaScript</li>
-  <li><b>Artificial Intelligence & GenAI:</b> LLMs, AI Agents, RAG, Prompt Engineering</li>
-  <li><b>Python Libraries:</b> NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LangChain</li>
-  <li><b>Web Technologies/Frameworks:</b> HTML, CSS, Flask</li>
-  <li><b>Data Storage & Visualization:</b> MySQL, ChromaDB, MS Excel</li>
-  <li><b>Tools & Platforms:</b> VS Code, Jupyter, PyCharm, GitHub</li>
-</ul>
+---
+
+## 🛠️ Skills
+
+### **Programming Languages:**
+* Python, Java, JavaScript
+
+### **Artificial Intelligence & GenAI:**
+* LLMs, AI Agents, RAG, Prompt Engineering
+
+### **Python Libraries:**
+* NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LangChain
+
+### **Web Technologies/Frameworks:**
+* HTML, CSS, Flask
+
+### **Data Storage & Visualization:**
+* MySQL, ChromaDB, MS Excel
+
+### **Tools & Platforms:**
+* VS Code, Jupyter, PyCharm, GitHub
