@@ -1,8 +1,6 @@
 # Hello, I'm Anand Shenoy! 👋
 
-I’m a passionate **MSc IT student** with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics, and Visualization. I’m proficient in working with Python libraries, SQL, and Visualization tools to process data, analyze statistics, and build predictive models.
-
-I'm currently looking for **internships and collaborative projects** where I can keep learning, apply my skills to real-world challenges, and grow professionally.
+Passionate MSc IT student with a strong foundation in Artificial Intelligence, Machine Learning, Data Analytics and Visualization. Proficient in Python, SQL, and statistical modeling, with a current focus on applying Generative AI and LLM frameworks to transform raw data into actionable intelligence. Currently seeking internships or entry-level opportunities where I can apply my skills to impactful projects and solve real-world problems.
 
 ## 🛠️ Skills
 
