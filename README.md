@@ -4,8 +4,6 @@ I’m a passionate **MSc IT student** with a strong foundation in Artificial Int
 
 I'm currently looking for **internships and collaborative projects** where I can keep learning, apply my skills to real-world challenges, and grow professionally.
 
----
-
 ## 🛠️ Skills
 
 ### **Programming Languages:**
