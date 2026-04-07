@@ -5,11 +5,11 @@ I'm currently looking for internships and collaborative projects where I can kee
 
 <h1>🛠️ Skills</h1><br>
 
-<h3>
-  <b>Programming Languages:</b> Python, Java, JavaScript
-  <b>Artificial Intelligence & GenAI:</b> LLMs, AI Agents, RAG, Prompt Engineering
-  <b>Python Libraries:</b> NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LangChain
-  <b>Web Technologies/Frameworks:</b> HTML, CSS, Flask
-  <b>Data Storage & Visualization:</b> MySQL, ChromaDB, MS Excel
-  <b>Tools & Platforms:</b> VS Code, Jupyter, PyCharm, GitHub
-</h3>
+<ul>
+  <li><b>Programming Languages:</b> Python, Java, JavaScript</li>
+  <li><b>Artificial Intelligence & GenAI:</b> LLMs, AI Agents, RAG, Prompt Engineering</li>
+  <li><b>Python Libraries:</b> NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LangChain</li>
+  <li><b>Web Technologies/Frameworks:</b> HTML, CSS, Flask</li>
+  <li><b>Data Storage & Visualization:</b> MySQL, ChromaDB, MS Excel</li>
+  <li><b>Tools & Platforms:</b> VS Code, Jupyter, PyCharm, GitHub</li>
+</ul>
