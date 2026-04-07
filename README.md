@@ -14,7 +14,7 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 * NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LangChain
 
 ### **Web Technologies/Frameworks:**
-* HTML, CSS, Flask
+* HTML, CSS, Flask, Streamlit
 
 ### **Data Storage & Visualization:**
 * MySQL, ChromaDB, MS Excel
