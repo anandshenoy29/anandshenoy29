@@ -5,7 +5,7 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 ## 🛠️ Skills
 
 ### **Programming Languages:**
-#### `Python`    `Java`    `JavaScript`
+### `Python`    `Java`    `JavaScript`
 
 ### **Artificial Intelligence & GenAI:**
 #### `LLMs`    `AI Agents`    `RAG`    `Prompt Engineering`
