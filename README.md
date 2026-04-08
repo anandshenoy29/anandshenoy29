@@ -8,13 +8,13 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 * `Python`, `Java`, `JavaScript`
 
 ### **Artificial Intelligence & GenAI:**
-* LLMs, AI Agents, RAG, Prompt Engineering
+* `LLMs`, `AI Agents`, `RAG`, `Prompt Engineering`
 
 ### **Python Libraries:**
-* NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LangChain
+* `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `LangChain`
 
 ### **Web Technologies/Frameworks:**
-* HTML, CSS, Flask, Streamlit
+* `HTML`, `CSS`, `Flask`, `Streamlit`
 
 ### **Data Storage & Visualization:**
-* MySQL, ChromaDB, MS Excel
+* `MySQL`, `ChromaDB`, `MS Excel`
