@@ -18,6 +18,3 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 
 ### **Data Storage & Visualization:**
 * MySQL, ChromaDB, MS Excel
-
-### **Tools & Platforms:**
-* VS Code, Jupyter, PyCharm, GitHub
