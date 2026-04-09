@@ -6,8 +6,8 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 
 | Category | Skills |
 | :--- | :--- |
-| <span style="font-size: 1.2em;">**Programming Languages**</span> | <span style="font-size: 1.2em;">**`Python`, `Java`, `JavaScript`**</span> |
-| <span style="font-size: 1.2em;">**Artificial Intelligence & GenAI**</span> | <span style="font-size: 1.2em;">**`LLMs`, `AI Agents`, `RAG`, `Prompt Engineering`**</span> |
-| <span style="font-size: 1.2em;">**Python Libraries**</span> | <span style="font-size: 1.2em;">**`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `LangChain`**</span> |
-| <span style="font-size: 1.2em;">**Web Technologies/Frameworks**</span> | <span style="font-size: 1.2em;">**`HTML`, `CSS`, `Flask`, `Streamlit`**</span> |
-| <span style="font-size: 1.2em;">**Data Storage & Visualization**</span> | <span style="font-size: 1.2em;">**`MySQL`, `ChromaDB`, `MS Excel`**</span> |
+| **Programming Languages** | **`Python`, `Java`, `JavaScript`** |
+| **Artificial Intelligence & GenAI** | **`LLMs`, `AI Agents`, `RAG`, `Prompt Engineering`** |
+| **Python Libraries** | **`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `LangChain`** |
+| **Web Technologies/Frameworks** | **`HTML`, `CSS`, `Flask`, `Streamlit`** |
+| **Data Storage & Visualization** | **`MySQL`, `ChromaDB`, `MS Excel`** |
