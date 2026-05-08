@@ -10,5 +10,5 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 | **Artificial Intelligence & GenAI** | **`LLMs`, `Agentic Workflows`, `RAG`, `Prompt Engineering`** |
 | **Python Libraries** | **`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `LangChain`** |
 | **Web Technologies/Frameworks** | **`HTML`, `CSS`, `Flask`, `Streamlit`** |
-| **Data Storage & Visualization** | **`MySQL`, `ChromaDB`, `Pinecone`, `Airtable`, `MS Excel`** |
+| **Data Storage & Visualization** | **`MySQL`, `ChromaDB`, `Pinecone`, `MS Excel`** |
 | **Tools & Platforms** | **`Nodemation (n8n)`, `VS Code`, `Jupyter`, `Git`** |
