@@ -11,4 +11,4 @@ Passionate MSc IT student with a strong foundation in Artificial Intelligence, M
 | **Python Libraries** | **`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `LangChain`** |
 | **Web Technologies/Frameworks** | **`HTML`, `CSS`, `Flask`, `Streamlit`** |
 | **Data Storage & Visualization** | **`MySQL`, `ChromaDB`, `Pinecone`, `Airtable`, `MS Excel`** |
-| **Tools & Platforms** | **`Nodemation (n8n)`, `VS Code`, `Jupyter`, `GitHub`** |
+| **Tools & Platforms** | **`Nodemation (n8n)`, `VS Code`, `Jupyter`, `Git`** |
